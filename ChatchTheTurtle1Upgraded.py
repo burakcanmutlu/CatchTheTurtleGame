@@ -70,4 +70,5 @@ turtle_screen.onclick(lambda x,y:countdown(30) if not game_active else None)
 
 
 update_display()
+#screen is open
 turtle.done()
