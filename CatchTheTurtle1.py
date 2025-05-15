@@ -46,4 +46,6 @@ t.goto(random_location_x,random_location_y)
 t.showturtle()
 
 
+
+#turtle screen open always
 turtle.done()
